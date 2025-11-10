@@ -6,6 +6,12 @@
 
 将您的源代码转换为格式精美、带语法高亮的 PDF 文档，支持多种编程语言和主题。
 
+## 在线使用
+
+🌐 **[立即使用 - 在线版本](https://tarikjaber.github.io/Code-to-PDF/)**
+
+无需安装，直接在浏览器中使用！支持文本输入和文件上传两种模式。
+
 ## 功能特性
 
 ### 双输入模式
@@ -147,6 +153,19 @@ git clone https://github.com/tarikjaber/Code-to-PDF.git
 答：我们支持 20+ 种编程语言文件扩展名。不支持的文件会在上传时自动跳过。
 
 ## 许可证
+
+MIT License
+
+## 贡献
+
+欢迎贡献！可以随时提交问题或拉取请求。
+
+## 致谢
+
+原始项目由 [Tarik Jaber](https://github.com/tarikjaber/Code-to-PDF) 创建
+
+扩展了文件上传功能和批量处理能力。
+
 
 MIT License
 
