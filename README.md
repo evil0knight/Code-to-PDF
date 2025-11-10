@@ -1,7 +1,3 @@
-# Code-to-PDF
-最近在使用企鹅家的IMA.Copilot的时候发现知识库不能上传.C.H文件，所以根据别的开源，做了代码转PDF的工具   
-
-
 # 代码转 PDF
 
 将您的源代码转换为格式精美、带语法高亮的 PDF 文档，支持多种编程语言和主题。
@@ -165,17 +161,3 @@ MIT License
 原始项目由 [Tarik Jaber](https://github.com/tarikjaber/Code-to-PDF) 创建
 
 扩展了文件上传功能和批量处理能力。
-
-
-MIT License
-
-## 贡献
-
-欢迎贡献！可以随时提交问题或拉取请求。
-
-## 致谢
-
-原始项目由 [Tarik Jaber](https://github.com/tarikjaber/Code-to-PDF) 创建
-
-扩展了文件上传功能和批量处理能力。
-
