@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-🌐 **[立即使用 - 在线版本](https://evil0knight.github.io/Code-to-PDF/)**
+🌐 **[立即使用 - 在线版本](https://evil0knight.github.io/Code-to-PDF/index.html)**
 
 无需安装，直接在浏览器中使用！支持文本输入和文件上传两种模式。
 
