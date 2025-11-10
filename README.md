@@ -120,17 +120,6 @@
 - **html2canvas** - HTML 转图像
 - **File System Access API** - 自定义保存位置
 
-## 本地开发
-
-1. 克隆仓库：
-```bash
-git clone https://github.com/tarikjaber/Code-to-PDF.git
-```
-
-2. 在浏览器中打开 `index.html`
-
-无需构建过程或依赖安装！
-
 ## 常见问题
 
 **问：为什么我的 PDF 没有保存到选定的文件夹？**
